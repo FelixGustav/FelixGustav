@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, eu sou Gustavo Felix do Rego!
 
 💻 Desenvolvedor apaixonado por tecnologia e inovação. Sempre aprendendo e explorando novas soluções!
 
@@ -13,8 +13,8 @@
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelixGustav&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixGustav&layout=compact&theme=radical)
 
 ---
 
