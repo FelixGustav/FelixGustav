@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Gustavo Felix do Rego!
+# 👋 Olá, eu sou Gustavo Felix do Rego
 
 💻 Desenvolvedor apaixonado por tecnologia e inovação. Sempre aprendendo e explorando novas soluções!
 
@@ -20,4 +20,4 @@
 
 ✨ _Sempre aberto a novas oportunidades e colaborações!_
 
-📫 **Entre em contato:** [Seu e-mail ou redes sociais]
+📫 **Entre em contato:** [https://www.linkedin.com/in/gustavo-felix-a11b67234/]
